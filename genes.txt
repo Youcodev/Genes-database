@@ -1,0 +1,40 @@
+25107
+Avpr1a
+arginine vasopressin receptor 1A
+Rattus norvegicus
+aatctaagac tgcgctggga gctcagagag tgggcccccc tgcctcagga ccagacagaa gtagggacat gtttgaatat cccatttaaa accactctgc acgcaccgga ttgcgcacgc
+2290
+FOXG1
+forkhead box G1
+Homo sapiens
+aggggtggtt gctgcttttg ctacatgact tgccagcgcc cgagcctgcg gtccaactgc gctgctgccg
+552
+Avpr1a
+arginine vasopressin receptor 1A
+Homo sapiens
+taattgcttg aaggattttt tccagacagg tggtctggaa accttttacc tattaccttc catccctgaa ccatttcaat cttctgcctc
+54140
+Avpr1a
+arginine vasopressin receptor 1A
+Mus musculus
+gacttggagg ggttgggtgt aggggacagt ctccagccac taagatgaga aggagcgcat cctgaggcag cctaagactg ctttgggagc agggagagtc cgctcccttg cctcggacaa
+22319
+Vamp3
+vesicle-associated membrane protein 3
+Mus musculus
+gcccatctcc tcagcctcgg ttgcctgcag cgcgagtccg tcgaccctcg gccattcgcc gccgccaccg ccgccaaaat gtctacaggt gtgccttcgg
+9341
+Vamp3
+vesicle-associated membrane protein 3
+Homo sapiens
+agtgacgtct ttgccccgcg ccgcgccgtc ccacccatct ccctggcctc cggtcccaac ttcgcttctc tgctgaccct ctctcgtcgc cgctgccgcc gccgcagctg
+14265
+Fmr1
+fragile X mental retardation syndrome 1 homolog
+Mus musculus
+aggaggcgca gcggagccct tggcctcagt cagtcaggcg ctggggagcg tttcggtttc acttccggtg aggggccgcg cctgagaggg cgggcagtga agcaaacgga cggcgagcgc gggcggtggc agtgacggcg
+4857
+NOVA1
+neuro-oncological ventral antigen 1
+Homo sapiens
+ctctcccttc tccactctct ccccctgtct cctttcttct tcttctttca ccctccgtct
